@@ -11,7 +11,7 @@ const PORT = process.env.port || 5000
 
 app.use(express.json())
 app.use(cors({
-    origin:'https://to-do-navy-one.vercel.app/',
+    origin:'https://to-do-navy-one.vercel.app',
     credentials:true,
 }))
 
