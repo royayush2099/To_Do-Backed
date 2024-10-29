@@ -14,10 +14,7 @@
     "express": "^4.18.2",
     "mongodb": "^6.0.0",
     "mongoose": "^7.5.0"
-  },
-  "devDependencies": {
-   
-    "@babel/plugin-proposal-private-property-in-object": "version_from_your_node_modules"
   }
+
   
 }
